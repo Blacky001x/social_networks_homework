@@ -8,7 +8,9 @@
 Koristeći alat po izboru (korišćen je Python i networkx biblioteka), analizirati datu mrežu.
 Neke od analiza koje je trebalo pokriti:
 - Analize povezanih komponenti (koliko ima komponenti, broj čvorova i veza u najvećoj komponenti,  i sl.)
+
 Za najveću komponentu je trebalo uraditi dodatne analize, između ostalog:
+
 - Osnovne metrike (pod)mreže nastalom posmatranjem najveće povezane komponente (gustina, prosečan stepen,   dijametar, koeficijent klasterisanja..)
 - Ekstrahovati top 10 istraživača koje imaju najviše metrike centralnosti (betweeness, closeness, degree, eigenvector).
 - Za svaku od četiri osnovne metrike centralnosti (pomenute iznad), napraviti vizuelizaciju najveće povezane komponente, pri tome jasno istaći čvorove sa najvišim stepenom metrike.
